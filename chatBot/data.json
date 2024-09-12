@@ -1,0 +1,354 @@
+{
+  "college": "Government Engineering College, Sreekrishnapuram, Palakkad",
+  "department": "Department of Computer Science and Engineering",
+  "courses": [
+    {
+      "name": "B.Tech in Computer Science and Engineering",
+      "university": "University of Calicut"
+    },
+    {
+      "name": "M.Tech in Computational Linguistics",
+      "university": "University of Calicut"
+    },
+    {
+      "name": "PhD",
+      "university": "University of Calicut"
+    }
+  ],
+  "hod_message": "DR. SABITHA S, HOD, CSE: Lorem ipsum dolor sit amet consectetur...",
+  "achievers": [
+    {
+      "name": "Hashiq",
+      "year": "2021-25",
+      "cgpa": "9.3"
+    },
+    {
+      "name": "Muhammed Ali",
+      "year": "2021-25",
+      "cgpa": "9.3"
+    },
+    {
+      "name": "Jerald",
+      "year": "2021-25",
+      "cgpa": "9.3",
+      "achievements": [
+        {
+          "achievement": "Batch Wise Topper",
+          "year": "2021-25"
+        },
+        {
+          "achievement": "Semester 3 Sem Topper",
+          "year": "2021-25"
+        },
+        {
+          "achievement": "Gate Qualifiers",
+          "year": "2021-25"
+        },
+        {
+          "achievement": "Scholars And Interns",
+          "year": "2021-25"
+        }
+        ],
+  "courses": [
+    "B.Tech in Computer Science and Engineering",
+    "M.Tech in Computational Liguistics",
+    "PhD"
+  ],
+  "facilities": {
+    "classrooms": {
+      "equipment": "LCD Projectors and Class room PA System"
+    },
+    "seminar hall": {
+      "equipment": "HiFi sound system, 3 X 3 video Wall"
+    },
+    "labs": {
+      "project lab": {
+        "desktops": [
+          {"brand": "Intel", "model": "Core i5", "ram": "4GB", "storage": "500GB", "count": 30},
+          {"brand": "AMD", "model": "A10", "ram": "4GB", "storage": "500GB", "count": 14},
+          {"brand": "Intel", "model": "Core i5", "ram": "4GB", "storage": "500GB", "count": 5}
+        ],
+        "laptops": [
+          {"brand": "Intel", "model": "Core i5", "ram": "4GB", "storage": "500GB", "count": 5}
+        ],
+        "servers": [
+          {"brand": "Intel", "model": "Xeon", "ram": "4GB", "storage": "500GB", "count": 1}
+        ]
+      },
+      "software lab": {
+        "desktops": [
+          {"brand": "Intel", "model": "Core i5", "ram": "4GB", "storage": "500GB", "count": 33},
+          {"brand": "AMD", "model": "A10", "ram": "4GB", "storage": "500GB", "count": 1},
+          {"brand": "Apple", "model": "iMac", "ram": "4GB", "storage": "500GB", "count": 1}
+        ],
+        "mfp": {
+          "brand": "Multifunctional Device"
+   }
+   },
+  "affiliation": "APJ Abdul Kalam Technological University",
+  "mission": [
+    "To become a Centre of Excellence in Computing and allied disciplines.",
+    "To impart high quality education in Computer science and Engineering that prepares the students for rewarding, enthusiastic and enjoyable careers in the industry, academia and other organizations."
+  ],
+  "hod_message": "Lorem ipsum dolor sit amet consectetur. Turpis consequat nec et suscipit in urna rhoncus.",
+  "toppers": [
+    {
+      "name": "Muhammed Ali",
+      "batch": "2021-25",
+      "cgpa": "9.3",
+      "position": "S3"
+    },
+    {
+      "name": "Jerald Joyson",
+      "batch": "2021-25",
+      "cgpa": "9.3",
+      "position": "S5"
+    },
+    {
+      "name": "Viswajith vp",
+      "batch": "2021-25",
+      "cgpa": "9.3",
+      "position": "S3"
+    },
+    {
+      "name": "Bimal",
+      "batch": "2021-25",
+      "cgpa": "9.3",
+      "position": "S4"
+    },
+    {
+      "name": "Hashiq",
+      "batch": "2021-25",
+      "cgpa": "9.3",
+      "position": "S3"
+    }
+  ],
+  "references": null,
+  "new_posts": null,
+  "to_do_list": "Lorem ipsum dolor si Lorem ipsum, dolor sit",
+
+ 
+  "affiliation": "APJ Abdul Kalam Technological University",
+  "university": "University of Calicut",
+  "mission": [
+    "To become a Centre of Excellence in Computing and allied disciplines.",
+    "To impart high quality education in Computer science and Engineering that prepares the students for rewarding, enthusiastic and enjoyable careers in the industry, academia and other organizations."
+  ],
+   "History of the department": [
+    "At the heart of the digital revolution lies the computer science department. We are the architects of the future, unraveling the mysteries of computation and transforming them into groundbreaking technologies. Our department offers a thrilling exploration into the world of computers and computational systems, encompassing everything from the foundational algorithms that power the digital age to the cutting-edge advancements in artificial intelligence and cybersecurity.",
+    "Whether you're fascinated by the intricate dance of data structures or dream of crafting the next generation of software, our curriculum equips you with the essential tools. We delve into the theoretical underpinnings of computer science, providing a rock-solid understanding of algorithms, programming languages, and the principles that govern how information is processed. This knowledge becomes the springboard for practical application. You'll not only learn to code but also to design, analyze, and build complex software systems."
+  ],
+  "courses": "B.Tech in Computer Science and Engineering, M.Tech in Computational Linguistics, PhD",
+  "facilities": {
+    "classrooms": "Smart Class Rooms with LCD Projectors and Class room PA System",
+    "seminar_hall": "Department Seminar Hall with HiFi sound system and 3 X 3 video Wall",
+    "labs": [
+      "Project Lab",
+      "Software Lab",
+      "Hardware Lab",
+      "Network Lab",
+      "PG Lab"
+    ]
+  },
+  "equipment": {
+    "project_lab": [
+      "Desktop - Intel Core i5/4GB/500GB (30Nos)",
+      "Desktop - AMD A10/4GB/500GB (14Nos)",
+      "Laptop - Intel Core i5/4GB/500GB (5Nos)"
+    ],
+    "software_lab": [
+      "Server - Intel Xeon based (1 No)",
+      "Desktop - Intel Core i5/4GB/500GB (33 Nos)",
+      "Desktop - AMD A10/4GB/500GB (1 No)",
+      "Apple iMac - Intel Core i5/4GB/500GB/27 (1 No)",
+      "MFP - Multifunctional Device (1 No)"
+    ],
+    "hardware_lab": [
+      "Desktop - Intel Core 2 Duo/4GB/500GB (9 Nos)",
+      "Desktop - AMD A10/4GB/500GB (9 Nos)",
+      "Desktop - AMD Rayzen/4GB/1TB (10 Nos)",
+      "Microprocessor Kit - Micro Controller kit (58 Nos)"
+    ],
+    "network_lab": [
+      "Desktop - HP Intel Core i5/4GB/500GB (25 Nos)",
+      "Desktop - Dell Intel Core i5/4GB/500GB (10 Nos)",
+      "Projector - LCD Projector (1 No)"
+    ],
+    "pg_lab": [
+      "HighEnd Workstation - Intel Xeon/64GB/1TB (3 Nos)",
+      "LowEnd Workstation - Intel Xeon/16GB/1TB (4 Nos)",
+      "Apple iMac - Applce MAC 27 (3 Nos)",
+      "Desktop - Intel Core i5/8GB/1TB (10 Nos)",
+      "Laptop - Intel Core i5/4GB/500GB"
+       ],   
+
+  "page": {
+    "title": "COMPUTER SCIENCE AND ENGINEERING",
+    "sections": [
+      {
+        "title": "HOME",
+        "links": []
+      },
+      {
+        "title": "ABOUT US",
+        "links": []
+      },
+      {
+        "title": "ACADEMICS",
+        "links": []
+      },
+      {
+        "title": "PEOPLE",
+        "links": []
+      },
+      {
+        "title": "ACTIVITIES",
+        "links": []
+      },
+      {
+        "title": "ACHIEVEMENTS",
+        "links": []
+      },
+      {
+        "title": "NOTIFICATIONS",
+        "links": []
+      }
+    ]
+  },
+  "program": {
+    "educationObjectives": [
+      {
+        "id": "PEO1",
+        "description": "Apply good analytic, design, and implementation skills required to formulate and solve computer science problems."
+      },
+      {
+        "id": "PEO2",
+        "description": "Be employed as computer science professionals beyond entry-level positions."
+      },
+      {
+        "id": "PEO3",
+        "description": "Be able to route their talents in to post graduate and research programs, promoting remarkable advancements in emerging areas."
+      },
+      {
+        "id": "PEO4",
+        "description": "Demonstrate that they can function, communicate, collaborate and continue to learn effectively as ethically and socially responsible computer science professionals."
+      }
+    ],
+    "specificOutcomes": [
+      {
+        "id": "PSO1",
+        "description": "Problem Solving Skills: Ability to design and develop computer programs and computer based systems of moderate complexity in the areas pertaining to system software, multimedia, database, networking, artificial intelligence, web- design and information security."
+      },
+      {
+        "id": "PSO2",
+        "description": "Professional Skills: Ability to apply standard practices and methods in software project management and software development using suitable programming environments to deliver quality product for the industry."
+      }
+    ],
+    "outcomes": [
+      {
+        "id": "PO1",
+        "description": "Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems."
+      },
+      {
+        "id": "PO2",
+        "description": "Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+      },
+      {
+        "id": "PO3",
+        "description": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural"         
+}
+],
+    
+"outcomes": [
+    {
+      "id": "PO3",
+      "description": "Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations."
+    },
+    {
+      "id": "PO4",
+      "description": "Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+    },
+    {
+      "id": "PO5",
+      "description": "Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations."
+    },
+    {
+      "id": "PO6",
+      "description": "The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+    },
+    {
+      "id": "PO7",
+      "description": "Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+    },
+    {
+      "id": "PO8",
+      "description": "Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+    },
+    {
+      "id": "PO9",
+      "description": "Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+    },
+    {
+      "id": "PO10",
+      "description": "Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+    },
+    {
+      "id": "PO11",
+      "description": "Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+    },
+    {
+      "id": "PO12",
+      "description": "Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Smart Class Rooms",
+      "description": "All the class rooms are equipped with LCD Projectors and Class room PA System"
+    },
+    {
+      "name": "Department Seminar Hall",
+      "description": ""
+      }
+  ],
+
+  "facility": [
+    {
+      "name": "Department Seminar Hall",
+      "description": "Computer Science and Engineering having a very good Seminar hall with HiFi sound system and 3 X 3 video Wall. Online courses and MOOC programmes are conducted at seminar hall"
+    },
+    {
+      "name": "Project Lab",
+      "description": "Desktop - Intel Core i5/4GB/500GB(30Nos) Desktop - AMD A10/4GB/500GB(14Nos) Laptop - Intel Core i5/4GB/500GB(5Nos)"
+    },
+    {
+      "name": "Software Lab",
+      "description": "Server - Intel Xeon based (1 No) Desktop - Intel Core i5/4GB/500GB (33 Nos) Desktop - AMD A10/4GB/500GB (1 No) Apple iMac - Intel Core i5/4GB/500GB/27 (1 No) MFP - Multifunctional Device (1 No)"
+    },
+    {
+      "name": "Hardware Lab",
+      "description": "Desktop - Intel Core 2 Duo/4GB/500GB (9 Nos) Desktop - AMD A10/4GB/500GB (9 Nos) Desktop - AMD Rayzen/4GB/1TB (10 Nos) Microprocessor Kit - Micro Controller kit (58 Nos)"
+    },
+    {
+      "name": "Network Lab",
+      "description": "Desktop - HP Intel Core i5/4GB/500GB (25 Nos) Desktop - Dell Intel Core i5/4GB/500GB (10 Nos) Projector - LCD Projector (1 No)"
+    },
+    {
+      "name": "PG Lab",
+      "description": "HighEnd Workstation - Intel Xeon/64GB/1TB (3 Nos) LowEnd Workstation - Intel Xeon/16GB/1TB (4 Nos) Apple iMac - Applce MAC 27 (3 Nos) Desktop - Intel Core i5/8GB/1TB (10 Nos) Laptop - Intel Core i5/4GB/500GB (10 Nos)"
+    }
+  ],
+  "courses": [
+    {
+      "name": "MAT101",
+      "description": "Vector Calculus, Differential Equations and Transforms",
+      "scheme": "2015 SCHEME"
+    },
+    {
+      "name": "MAT102",
+      "description": "Linear Algebra and Calculus",
+      "scheme": "2019 SCHEME"
+	}
+],
+    	
+}
